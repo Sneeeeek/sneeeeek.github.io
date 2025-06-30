@@ -6,7 +6,7 @@ My bot, Feixiao, is an AI-driven Discord bot role-playing as Feixiao from *Honka
 1. Commands:
    - !about: Shows information about Feixiao and her features.
    - !context: Uses the last 20 messages in the channel as context instead of the stored history for the next response.
-   - !clean: Queries a pure gpt 4.1 without any system prompt. This command is whitelisted.
+   - !clean: Queries a pure gpt 4.1 without anything extra (system prompt history). This command is whitelisted to only me currently.
 
 2. AI Responses: Feixiao responds in-character using the OpenAI API. Currently, she is using GPT-4.1.
 
