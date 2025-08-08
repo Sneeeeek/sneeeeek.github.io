@@ -6,9 +6,9 @@ My bot, Feixiao, is an AI-driven Discord bot role-playing as Feixiao from *Honka
 1. Commands:
    - !about: Shows information about Feixiao and her features.
    - !context: Uses the last 20 messages in the channel as context instead of the stored history for the next response.
-   - !clean: Queries a pure gpt 4.1 without anything extra (system prompt history). This command is whitelisted to only me currently.
+   - !clean: Queries a pure GPT 5 without anything extra (system prompt history). This command is whitelisted to only me currently.
 
-2. AI Responses: Feixiao responds in-character using the OpenAI API. Currently, she is using GPT-4.1.
+2. AI Responses: Feixiao responds in-character using the OpenAI API. Currently, she is using GPT 5.
 
 3. Chat History: Interactions are logged per channel in JSON files for context and continuity. This means she will, by default, only know whats been said directly to her unless the !context command is invoked. It also means she has a different "memory" per text channel and things dont carry over to other channels.
 
