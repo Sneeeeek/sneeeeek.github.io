@@ -1,7 +1,7 @@
 
 # Feixiao Discord Bot Capabilities
 
-My bot, Feixiao, is an AI-driven Discord bot role-playing as Feixiao from *Honkai: Star Rail*. At the time of update, Feixiao uses GPT-5 Here are its main features and capabilities:
+My bot, Feixiao, is an AI-driven Discord bot role-playing as Feixiao from *Honkai: Star Rail*. At the time of update, Feixiao uses GPT-5. Here are its main features and capabilities:
 
 1. Commands:
    - !about: Shows information about Feixiao and her features.
