@@ -12,8 +12,8 @@ My bot, Feixiao, is an AI-driven Discord bot role-playing as Feixiao from *Honka
 
 2.   Per server reasoning levels:
       - GPT-5 has the capability to spend extra time reasoning to improve response quality. These commands will set what level of reasoning the bot will use per server, from the range of ["minimal", "low", "medium", "high"]. These commands are also whitelisted to only me.
-      - !setreason: 
-      - !delreason:
+      - !setreason: Set the level of reasoning that will be used.
+      - !delreason: Delete the entry for the current server.
 
 3.   Custom pronoun options:
       - !setpro: You can use !setpro to set a custom pronoun that will be added to your input (if youve set one), to change your set pronoun you just do !setpro again. 
